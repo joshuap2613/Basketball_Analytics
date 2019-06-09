@@ -1,0 +1,1668 @@
+2/5     Cleveland        W   -4    100-83   H     180O
+2/6     New Jersey       L   -5'   111-106  H     188O
+2/7     New Jersey           NL    69-79    V     NL
+2/9     Chicago          W   -6    87-71    V     176U
+2/11    Charlotte        L   -14   100-88   H*    175O
+2/14    Philadelphia     L   -2'   70-78    V     181U
+2/16    Chicago          W   -8    83-67    V     168U
+2/19    Orlando          L   -5    94-99    H1*   173O
+2/20    Philadelphia     W   -4    76-69    V     169U
+2/22    Chicago          L   -10   68-77    H*    164U
+2/23    Dallas           L   -2    85-89    V     170O
+2/25    Houston          W   +7'   93-87    V     174O
+2/27    LA Clippers      W   -9    103-74   VN    173O
+3/1     Orlando          W   +6    67-70    V     172U
+3/2     Washington       L   -5'   77-97    H*    176U
+3/4     Toronto          L   -10   77-86    H*    181U
+3/8     Orlando          W   +3'   114-110  V     168O
+3/10    Miami            L   +4    78-88    V     172U
+3/11    Boston           W   -8    99-85    H*    186U
+3/13    Toronto          W   -9'   86-75    H*    177U
+3/14    Detroit          W   +4    85-72    V     173U
+3/16    Indiana          W   +5'   85-79    V     174U
+3/17    Miami            L   -1'   85-86    H     167O
+3/19    Phoenix          W   -4'   93-85    H     186U
+3/20    Milwaukee        L   -4'   77-83    H     178U
+3/22    New York         W   +1    80-71    V     167U
+3/24    Indiana          W   P     103-102  H     174O
+3/26    Chicago          L   -13'  93-81    H     173O
+3/27    Philadelphia         NL    103-99   H1    NL
+3/29    Indiana          W   +5    83-82    V     175U
+3/30    Detroit              NL    77-93    H     NL
+4/1     New Jersey       L   -4    85-90    V     176U
+4/2     Vancouver        L   -10   84-81    H*    175U
+4/4     Charlotte        L   -3'   85-83    H*    172U
+4/5     Charlotte        W   +2'   77-71    V     172U
+4/7     Detroit          L   +5    82-89    V     169O
+4/9     New York         L   -1'   78-86    H     168U
+4/10    Cleveland        L   +4'   67-81    V     168U
+4/13    Milwaukee        L   +5    84-91    V     170O
+4/14    Boston           W   +3    77-70    V     175U
+4/16    Orlando          W   +1    91-79    H     168O
+4/20    Toronto          W   -1'   103-81   V     171O
+4/22    Boston           W   -11'  106-94   H*    177O
+4/23    Washington       W   -4    89-78    V     176U
+4/25    Milwaukee        W   -5    85-70    H*    173U
+4/28    New York             NL    76-73    H     NL
+4/30    Indiana          L   -3    90-92    H1    176O
+5/2     Cleveland        W   -6'   76-65    V     166U
+5/4     Miami            L   +4'   79-93    V     167O
+5/5     Washington       L   -8'   100-92   H     177O
+5/8     Detroit          W   -4    90-70    H     167U
+5/10    Detroit          W   -3    89-69    H     165U
+5/12    Detroit          L   +5    63-79    V     164U
+5/14    Detroit          L   +4    82-103   V     163O
+5/16    Detroit          W   -3'   87-75    H     164U
+5/18    New York         L   -4    92-100   H     163O
+5/20    New York         L   -4    70-77    H     165U
+5/23    New York         L   +5    78-90    V     165O
+5/24    New York         L   +6'   66-79    V     167U
+H-at Georgia Dome
+H*-at Georgia Tech
+
+BOSTON CELTICS
+(SUR: 19-31  PSR: 21-28)
+2/5     Toronto          L   -9'   92-103   H     201U
+2/6     Cleveland        W   +1    77-73    H     182U
+2/8     Orlando          L   +6'   90-107   V     180O
+2/9     Miami            W   +6'   108-101  V     178O
+2/16    Sacramento       W   +3'   98-101   V     200U
+2/17    Vancouver        L   -5'   131-129  V3    195O
+2/19    Portland         L   +9    86-106   V     192N
+2/21    Washington       L   +3    75-86    V     197U
+2/24    Orlando          W   +2'   111-79   H     189O
+2/26    New York         W   -3'   94-80    H     180U
+2/27    New Jersey       W   +5    101-92   V     187O
+3/1     New Jersey       L   -4    97-99    H     190O
+3/2     Cleveland        L   +4'   99-116   V     180O
+3/5     Denver           L   -9'   102-94   H     198U
+3/7     Toronto          L   -2'   92-105   V     191O
+3/9     Charlotte        L   -6    87-105   V     191O
+3/11    Atlanta          L   +8    85-99    V     186U
+3/12    Detroit          L   +9'   83-93    V     189U
+3/14    Indiana          W   +9'   96-99    V     189O
+3/17    LA Clippers      W   -12   118-84   H     199O
+3/18    Milwaukee        L   +5    83-99    V     194U
+3/20    New York         L   +8    78-96    V     185U
+3/21    Chicago          L   -6'   92-95    H1    186O
+3/23    Cleveland        L   +5'   86-113   V     185O
+3/24    Minnesota        L   P     68-87    H     189U
+3/26    Philadelphia     W   +6'   90-84    V     184U
+3/28    Indiana          L   +5    93-101   H     192O
+3/30    Charlotte        W   +7'   109-99   V     189O
+3/31    Detroit          L   +1'   72-87    H     184U
+4/2     Milwaukee        W   +2    83-84    H     187U
+4/4     New Jersey       L   -6'   79-91    H     190U
+4/5     Orlando          W   +10   99-106   V     186O
+4/7     Washington       W   -2'   108-87   H     192O
+4/8     Toronto          W   +6    101-89   V     191U
+4/9     Philadelphia     L   +2'   67-83    H     184U
+4/11    Chicago          L   -9    87-81    H     179U
+4/12    Cleveland        W   +2'   103-89   H     182O
+4/14    Atlanta          L   -3    70-77    H     175U
+4/16    Miami            W   +6    82-81    H     175U
+4/18    Washington       W   +4    101-98   V     189O
+4/19    Indiana          L   +6'   104-120  H     185O
+4/21    Philadelphia     W   +5'   78-80    H     180U
+4/22    Atlanta          L   +11'  94-106   V     177O
+4/23    Chicago              NL    100-71   V     NL
+4/25    Washington       W   -3'   113-84   H     187O
+4/27    Detroit          L   +3    85-92    H     180U
+4/29    Miami            W   +8    107-96   V     178O
+5/1     Milwaukee        L   -2'   79-88    H     NL
+5/3     New York         W   +7'   88-95    V     177O
+5/5     Charlotte        L   -2'   129-133  H2    196O
+
+CHARLOTTE HORNETS
+(SUR: 26-24  PSR: 29-16-3)
+2/5     Philadelphia     L   +2    66-78    H     181U
+2/6     Milwaukee        W   +6'   107-113  H1    171O
+2/8     Miami            W   +8    94-91    H     168O
+2/10    Cleveland        L   +6    77-87    H     175U
+2/11    Atlanta          W   +14   88-100   V     175O
+2/16    LA Lakers        L   +16   88-116   V     189O
+2/17    Golden St.       L   +6'   87-96    V     178O
+2/19    Sacramento       W   +12   95-106   V     194O
+2/24    Miami            W   +9'   83-91    H     172O
+2/26    Portland         W   +10'  97-95    H     179O
+2/27    Chicago          L   +5    77-94    V     172U
+3/1     Toronto          W   -2    91-88    H     183U
+3/3     Orlando          L   +12'  76-93    V     182U
+3/4     New Jersey       W   +12   96-82    V     181U
+3/5     Washington       W   +11'  85-86    V     187U
+3/9     Boston           W   +6    105-87   H     191O
+3/10    Philadelphia     L   +13'  70-85    V     180U
+3/12    Washington           NL    92-83    V     NL
+3/14    New York         N   +8    86-94    V     169O
+3/15    Toronto          L   +2'   82-89    V     178U
+3/17    Phoenix          W   +4    119-111  H     189O
+3/19    Utah             W   +5'   83-82    H1    180U
+3/21    Milwaukee        W   +5    94-87    V     181N
+3/23    Orlando          L   +6'   78-86    V     178U
+3/24    Chicago          W   -11   110-81   H     178O
+3/26    Orlando          W   -4    90-82    H     176U
+3/28    Cleveland        W   -4    105-84   H     178O
+3/30    Boston           L   -7'   99-109   H     189O
+3/31    Milwaukee        L   -3'   94-102   H     186O
+4/2     Indiana          L   +2    81-87    H     187U
+4/4     Atlanta          W   +3'   83-85    V     172U
+4/5     Atlanta          L   -2'   71-77    H     172U
+4/7     New York         W   +1'   106-82   H     175O
+4/9     Washington       L   -3'   90-88    H     188U
+4/10    Indiana          W   +8'   92-90    V     188U
+4/12    Detroit          W   +6'   92-86    V     177O
+4/14    Detroit          W   +1'   83-79    H     177U
+4/16    Milwaukee        W   +5    95-94    V     182O
+4/17    Cleveland        W   +3    90-82    V     175U
+4/19    New Jersey       W   -2'   120-113  V     185O
+4/21    Detroit          W   -1'   88-85    H     175U
+4/23    New York         N   +5    105-110  V     173O
+4/24    New Jersey       W   -5'   97-82    H     194U
+4/26    New York         L   -5'   84-91    H     175N
+4/27    Toronto          W   +2    108-98   V     182O
+4/29    Indiana          N   +5    110-115  V1    187O
+4/30    Chicago          L   -12   92-88    H     178O
+5/2     Miami                NL    93-100   V     NL
+5/4     Philadelphia     W   -3'   117-110  H1    183O
+5/5     Boston           W   +2'   133-129  V2    196O
+
+CHICAGO BULLS
+(SUR: 13-37  PSR: 25-23)
+2/5     Utah             W   +16'  96-104   V     180O
+2/7     LA Clippers      W   +2'   89-84    V     181U
+2/9     Atlanta          L   +6    71-87    H     176U
+2/11    New York         W   +6    68-73    H     169U
+2/14    San Antonio      L   +7'   76-89    H     167U
+2/16    Atlanta          L   +8    67-83    H     168U
+2/17    Milwaukee        W   +11'  83-91    V     172O
+2/19    Washington       W   +8    91-93    V     174O
+2/21    New York         L   +10   63-79    V     169U
+2/22    Atlanta          W   +10   77-68    V     164U
+2/23    Milwaukee        W   +8'   88-90    H     165O
+2/25    Philadelphia     L   +4    80-98    H     166O
+2/27    Charlotte        W   -5    94-77    H     172U
+2/28    Toronto          W   +6    90-88    V1    174O
+3/2     Detroit          L   +7    78-108   H     170O
+3/3     Philadelphia     L   +11'  86-102   V     171O
+3/8     Milwaukee        W   +11   76-81    V     172U
+3/9     New Jersey       W   +4    103-87   H     171O
+3/11    Seattle          L   +7    83-92    H     174O
+3/12    New York         W   +4    76-63    H     168U
+3/15    Cleveland        W   +4'   85-89    H1    167O
+3/17    Orlando          W   +12'  94-103   V     169O
+3/18    New Jersey       W   +1    104-95   H     174O
+3/19    Indiana          W   +14   87-96    V     178O
+3/21    Boston           W   +6'   95-92    V1    186O
+3/23    Toronto          L   -3'   90-113   H     178O
+3/24    Charlotte        L   +11   81-110   V     178O
+3/26    Atlanta          W   +13'  81-93    V     173O
+3/28    Toronto          L   +9'   78-91    V     179U
+3/30    Philadelphia         NL    91-81    H     NL
+4/1     Detroit          L   +9    75-107   V     176O
+4/2     Orlando          L   +5'   68-115   H     172O
+4/4     Vancouver        L   -4    88-87    H     174O
+4/6     Cleveland        W   +10'  89-96    V     177O
+4/7     Indiana          L   +9    74-91    H     182U
+4/10    Miami            L   +10   49-82    H     172U
+4/11    Boston           W   +9    81-87    V     179U
+4/13    Miami            L   +14   74-90    V     170U
+4/14    Cleveland        L   +4'   81-89    H     171U
+4/16    Washington       L   +9    70-87    V     175U
+4/18    Milwaukee        W   +7'   79-77    H     175U
+4/20    Washington       W   +5    83-77    H     174U
+4/21    New Jersey       L   +11   87-99    V     179O
+4/23    Boston               NL    71-100   H     NL
+4/24    Indiana          L   +16   69-87    V     178U
+4/26    Dallas           W   +10'  93-101   V     178O
+4/30    Charlotte        W   +12   88-92    V     178O
+5/1     Miami            W   +12'  101-86   V     174O
+5/3     Detroit          L   +5    71-115   H     175O
+5/5     Orlando          L   +7'   83-103   H     176O
+
+CLEVELAND CAVALIERS
+(SUR: 22-28  PSR: 21-28-1)
+2/5     Atlanta          L   +4    83-100   V     180O
+2/6     Boston           L   -1    73-77    V     182U
+2/8     Indiana          L   +2'   89-95    H     171O
+2/10    Charlotte        W   -6    87-77    V     175U
+2/11    San Antonio      W   +2'   99-89    H     168O
+2/16    Orlando          W   -2'   90-78    H     172U
+2/18    New York         W   -1    98-74    H     170O
+2/20    New Jersey       N   -5    89-84    H     176U
+2/22    Philadelphia     L   -5'   97-106   H     170O
+2/24    Detroit          L   +3'   73-89    V     176U
+2/25    Indiana          L   +3    74-81    H     175U
+3/1     New York         L   +4    78-85    V     165U
+3/2     Boston           W   -4'   116-99   H     180O
+3/4     Detroit          L   -1    84-99    H     177O
+3/6     Golden St.       W   -9    97-80    H     179U
+3/9     Utah             L   +10   75-88    V     180U
+3/10    Phoenix          W   +4'   86-73    V     183U
+3/13    Houston          L   +7    89-100   V     173O
+3/15    Chicago          L   -4'   89-85    V1    167O
+3/16    Detroit          W   P     86-82    H     173U
+3/18    LA Lakers        W   +5'   100-93   H     188O
+3/20    Washington       L   +2    83-113   V     179O
+3/21    New Jersey       L   -5'   88-85    H     180U
+3/23    Boston           W   -5'   113-86   H     185O
+3/25    Orlando          L   +6'   86-96    V     173O
+3/27    New Jersey       W   -4    109-99   V     176O
+3/28    Charlotte        L   +4    84-105   V     178O
+3/30    Toronto          L   -4'   91-101   H     184O
+4/1     New York         W   +5'   74-78    V     175U
+4/2     Philadelphia     W   +4'   85-80    V     176U
+4/4     Milwaukee        W   -2'   98-74    H     180U
+4/6     Chicago          L   -10'  96-89    H     177O
+4/7     Milwaukee        L   +4'   91-99    V     179O
+4/8     Orlando          L   +1'   69-73    H     175U
+4/10    Atlanta          W   -4'   81-67    H     168U
+4/12    Boston           L   -2'   89-103   V     182O
+4/13    Washington       W   -5'   86-77    H     181U
+4/14    Chicago          W   -4'   89-81    V     171U
+4/16    Toronto          W   +2'   91-90    V1    179O
+4/17    Charlotte        L   -3    82-90    H     175U
+4/19    Miami            L   +2'   87-94    H     168O
+4/21    Miami            L   +7    80-93    V     171O
+4/23    Milwaukee        W   +7'   75-79    V     177U
+4/26    Miami            L   +7    65-90    H     168U
+4/27    Philadelphia     W   +10'  71-80    V     168U
+4/29    Washington       L   +3'   86-97    V     176O
+4/30    Toronto          W   +3    91-83    H     179U
+5/2     Atlanta          L   +6'   65-76    H     166U
+5/4     Indiana          L   +12'  78-100   V     177O
+5/5     Toronto          L   +8'   87-96    V     180O
+
+DALLAS MAVERICKS
+(SUR: 19-31  PSR: 28-21-1)
+2/5     Seattle          W   +11   86-92    V1    193U
+2/7     Golden St.       W   P     102-99   V2    176O
+2/9     Utah             L   +6'   79-90    H     186U
+2/11    Houston          L   +2    95-105   H     182O
+2/12    Denver           L   +3    94-100   V     190O
+2/14    Vancouver        L   -2'   92-96    V     189U
+2/15    Portland         L   +9    84-99    V     184U
+2/17    LA Lakers        L   +11'  88-101   V     195U
+2/19    Golden St.       L   +2    79-84    V     179U
+2/20    LA Clippers      W   +2    105-90   V     182O
+2/22    Phoenix          L   +7    83-101   V     197U
+2/23    Atlanta          W   +2    89-85    H     170O
+2/25    Denver           W   -6    90-81    H     192U
+2/26    Utah             N   +15   65-80    V     185U
+2/27    Sacramento       W   +4'   97-90    H     190U
+3/2     LA Clippers      W   -9'   112-99   H     184O
+3/4     San Antonio      L   +6    79-95    H     177U
+3/5     Utah             W   +15'  95-106   V     182O
+3/7     Sacramento       W   +8    89-94    V     194U
+3/9     Phoenix          L   +4'   91-103   H     190O
+3/11    Orlando          W   +4    93-76    H     176U
+3/13    Vancouver        W   -8    91-74    H     185U
+3/15    Portland         L   +6    91-106   H     178O
+3/17    New Jersey       W   +4'   87-88    V     183U
+3/19    Detroit          W   +8    87-94    V     179O
+3/20    Sacramento       W   +3    104-90   H     194N
+3/22    LA Lakers        W   +6'   93-96    H     193U
+3/24    Houston          L   +4'   78-88    H     187U
+3/26    Denver           W   -6    98-79    H     187U
+3/27    San Antonio      L   +10   77-99    V     NL
+3/29    Seattle          L   +1'   101-109  H     181O
+3/30    Minnesota        L   +6    78-98    V     183U
+4/1     LA Clippers      W   -7'   93-84    H     188U
+4/5     Minnesota        W   +8    93-100   V     183O
+4/7     Miami            W   +10'  87-93    V     175O
+4/10    Golden St.       L   -3    90-91    H     176O
+4/13    San Antonio      W   +5'   92-86    H     177O
+4/15    Minnesota        W   -5'   101-95   H     NL
+4/16    Phoenix          W   +8    85-92    V     187U
+4/17    Portland         L   +7    94-102   H     178O
+4/20    Phoenix          W   +2'   104-100  H     188O
+4/21    Houston          W   +10'  109-95   V     187O
+4/22    San Antonio      L   +13   76-103   V     179N
+4/24    Sacramento       W   +6'   102-105  V     198O
+4/26    Chicago          L   -10'  101-93   H     178O
+4/27    Vancouver        W   -7'   84-75    H     189U
+4/29    Houston          W   +10   91-81    V     190U
+5/1     Golden St.       W   -8    105-94   H     180O
+5/3     LA Lakers        L   +11   102-115  V     195O
+5/4     Seattle          L   +5    100-110  V     196O
+
+DENVER NUGGETS
+(SUR: 14-36  PSR: 24-23-3)
+2/5     Minnesota        L   +3    92-110   H     194O
+2/7     Phoenix          W   +11'  108-115  V     199O
+2/8     Houston          L   +12'  80-99    V     198U
+2/10    LA Lakers        W   +10   98-103   H     198O
+2/12    Dallas           W   -3    100-94   H     190O
+2/13    Seattle          N   +13   92-105   V     188O
+2/15    Phoenix          L   +4'   106-115  H     203O
+2/17    Portland         L   +12'  85-100   V     195U
+2/18    Utah             W   +15'  86-97    V     195U
+2/22    LA Lakers        W   +9    117-113  H1    198O
+2/24    Utah             W   +8'   97-87    H     193U
+2/25    Dallas           L   +6    81-90    V     192U
+2/26    Milwaukee        W   +7    96-95    H     187O
+2/28    Vancouver        L   -5'   116-112  H     190O
+3/2     Indiana          W   +13   81-88    V     193U
+3/4     Miami            W   +12'  87-95    V     179O
+3/5     Boston           W   +9'   94-102   V     198U
+3/7     San Antonio      L   +7    96-106   H     185O
+3/9     Houston          W   +11   75-84    V     193U
+3/11    Utah             W   +14'  89-94    V     189U
+3/13    San Antonio      L   +10'  61-92    V     182U
+3/15    Vancouver        W   -7    110-84   H     194N
+3/17    Houston          L   +2'   109-114  H     193O
+3/19    Minnesota        L   P     101-105  H     196O
+3/21    Seattle          W   +5'   102-98   H     194O
+3/23    San Antonio      L   +10'  82-112   V     182O
+3/25    San Antonio      L   +7    65-86    H     194U
+3/26    Dallas           L   +6    79-98    V     187U
+3/27    Washington       L   +4    100-112  H     197O
+3/29    LA Clippers      W   -6'   100-88   H     201U
+3/30    Vancouver        L   +3    87-101   V     183O
+4/1     Seattle          W   +4'   113-110  H     197O
+4/2     Minnesota        L   +10   88-107   V     188O
+4/4     LA Clippers      L   -7'   82-80    H     198U
+4/5     LA Lakers        W   +14   104-117  V     196O
+4/7     Vancouver        W   +3    87-84    V     188U
+4/10    Sacramento       W   +8'   104-110  V     201O
+4/12    Golden St.       L   -1    96-104   H     188O
+4/14    New Jersey       W   -3    120-97   H     202O
+4/15    Golden St.       W   +7    79-85    V     188U
+4/17    Sacramento       L   +8    97-119   V     204O
+4/18    LA Clippers      W   +3'   103-101  V     193O
+4/23    Golden St.       W   -2    96-84    H     190U
+4/24    Golden St.       L   +6    74-93    V     184U
+4/26    Portland         L   +13'  77-93    V     189U
+4/29    Phoenix          L   +3'   87-98    H     200U
+4/30    Seattle          W   +10'  101-111  V     196O
+5/2     Portland         N   +8    102-110  H     192O
+5/3     Sacramento       L   +3    104-112  H     209O
+5/5     Houston          N   +7    88-95    H     203U
+
+DETROIT PISTONS
+(SUR: 31-24  PSR: 23-29)
+2/5     Miami            W   +6    95-81    V     174O
+2/7     Indiana          W   +2'   107-98   H     176O
+2/8     Washington       L   -6'   106-103  H     188O
+2/9     Philadelphia     W   +4'   86-90    V     182U
+2/11    Orlando          L   -5    81-87    H     182U
+2/15    New York         L   +3'   69-78    V     175U
+2/16    New Jersey       L   +1'   82-97    V     177O
+2/17    Miami            L   -1    80-91    H     170O
+2/19    Phoenix          W   +5'   101-93   V     187O
+2/21    San Antonio      L   +7    64-85    V     173U
+2/23    Toronto              NL    106-80   H     NL
+2/24    Cleveland        W   -3'   89-73    H     176U
+2/26    Miami            W   +1    95-93    H     174O
+2/28    New York         W   -4    89-68    H     170U
+3/2     Chicago          W   -7    108-78   V     170O
+3/4     Cleveland        W   +1    99-84    V     177O
+3/6     Orlando          L   +2'   82-87    V     176U
+3/8     Washington       L   -10   75-71    H     184U
+3/10    Washington       L   -4    87-97    V     179O
+3/12    Boston           W   -9'   93-83    H     189U
+3/14    Atlanta          L   -4    72-85    H     173U
+3/16    Cleveland        L   P     82-86    V     173U
+3/17    Toronto          L   -10'  101-103  H     177O
+3/19    Dallas           L   -8    94-87    H     179O
+3/21    Utah             W   +2'   104-101  H1    176O
+3/22    Milwaukee        L   +1    86-115   V     177O
+3/24    New Jersey       W   P     84-71    V     183U
+3/26    Milwaukee        L   -6    90-85    H     176U
+3/28    Seattle          W   -4    104-87   H     178O
+3/30    Atlanta              NL    93-77    V     NL
+3/31    Boston           W   -1'   87-72    V     184U
+4/1     Chicago          W   -9    107-75   H     176O
+4/3     Orlando          L   -6'   77-92    H     175U
+4/5     Indiana          L   -2'   86-88    H     181U
+4/7     Atlanta          W   -5    89-82    H     169O
+4/9     Indiana          W   +5'   102-101  V     179O
+4/11    Minnesota        L   -1    79-88    V     179U
+4/12    Charlotte        L   -6'   86-92    H     177O
+4/14    Charlotte        L   -1'   79-83    V     177U
+4/16    New York             NL    80-71    H     NL
+4/18    Orlando          L   +5    81-88    V     172U
+4/21    Charlotte        L   +1'   85-88    V     175U
+4/22    Philadelphia     L   -6    96-104   H     172O
+4/25    Toronto          W   P     91-83    V     178U
+4/27    Boston           W   -3    92-85    V     180U
+4/28    New Jersey       L   -12   101-93   H     183O
+4/30    Milwaukee        W   +3    81-76    V     179U
+5/2     Philadelphia     L   -6'   100-96   H     176O
+5/3     Chicago          W   -5    115-71   V     175O
+5/5     Philadelphia     L   +2'   100-105  V1    180O
+5/8     Atlanta          L   +4    70-90    V     167U
+5/10    Atlanta          L   +3    69-89    V     165U
+5/12    Atlanta          W   -5    79-63    H     164U
+5/14    Atlanta          W   -4    103-82   H     163O
+5/16    Atlanta          L   +3'   75-87    V     164U
+
+GOLDEN STATE WARRIORS
+(SUR: 21-29  PSR: 30-20)
+2/6     Houston          W   +6'   84-86    H     183U
+2/7     Dallas           L   P     99-102   H2    176O
+2/9     Seattle          L   +11   71-90    V     177U
+2/10    Seattle          L   +6    82-89    H     176U
+2/12    Utah             L   +7'   81-97    H     175O
+2/14    Portland         W   +8    105-100  H2    176O
+2/15    Minnesota        W   +7    101-99   H     175O
+2/17    Charlotte        W   -6'   96-87    H     178O
+2/19    Dallas           W   -2    84-79    H     179U
+2/20    Portland         W   +13'  84-90    V     179U
+2/23    LA Clippers      W   -2    94-89    V     179O
+2/26    Phoenix          W   +2'   94-90    H     183O
+2/28    Phoenix          L   +10   89-102   V     187O
+3/2     Minnesota        L   +10   78-89    V     189U
+3/3     Milwaukee        L   +6'   78-106   V     177O
+3/5     Indiana          W   +12'  102-83   V     180O
+3/6     Cleveland        L   +9    80-97    V     179U
+3/9     Vancouver        W   -7'   92-82    H     184U
+3/11    Minnesota        W   +2'   89-82    H     184U
+3/12    LA Lakers        W   +14   78-89    V     191U
+3/13    Orlando          L   +5'   74-87    H     172U
+3/15    Sacramento       L   -1    105-111  H     189O
+3/17    San Antonio      W   +5'   78-82    H     176U
+3/19    Seattle          W   +5    90-78    H     176U
+3/23    Portland         W   +11   72-79    V     177U
+3/24    LA Clippers      W   -3    92-80    V     180U
+3/26    Washington       W   +1    100-96   H     178O
+3/27    Houston          W   +5    86-87    H     181U
+3/30    Portland         W   +6    93-90    H     175O
+3/31    Phoenix          L   +8    78-93    V     183U
+4/2     Utah             L   +4    85-92    H     175O
+4/3     LA Lakers        W   +11   81-76    V     187U
+4/5     San Antonio      W   +10   86-93    V     174O
+4/6     Houston          L   +10   74-111   V     180O
+4/8     Utah             W   +11'  85-92    V     175O
+4/10    Dallas           W   +3    91-90    V     176O
+4/12    Denver           W   +1    104-96   V     188O
+4/15    Denver           L   -7    85-79    H     188U
+4/16    LA Clippers      L   -8'   83-86    H     180U
+4/18    Vancouver        W   -3    90-85    V     177U
+4/20    LA Lakers        L   +3'   102-106  H1    187O
+4/21    Sacramento       L   +7    94-103   V     192O
+4/23    Denver           L   +2    84-96    V     190U
+4/24    Denver           W   -6    93-74    H     184U
+4/26    Sacramento       W   -2'   114-89   H     191O
+4/29    Utah             W   +11'  85-96    V     176O
+4/30    Minnesota        W   +10   85-90    V     182U
+5/1     Dallas           L   +8    94-105   V     180O
+5/3     Vancouver        W   -2'   91-83    V     179U
+5/5     San Antonio      L   +6'   81-88    H     174U
+
+HOUSTON ROCKETS
+(SUR: 32-22  PSR: 28-24-2)
+2/5     LA Lakers        L   +5    91-99    V     195U
+2/6     Golden St.       L   -6'   86-84    V     183U
+2/8     Denver           W   -12'  99-80    H     198U
+2/10    Sacramento       W   -9    92-82    H     192U
+2/11    Dallas           W   -2    105-95   V     182O
+2/16    Phoenix          W   -4'   109-92   H     191O
+2/17    Minnesota        L   +4'   102-116  V     186O
+2/18    New Jersey       W   +5'   93-92    V1    187U
+2/20    Miami            L   +6    71-81    V     179U
+2/21    Orlando          L   +8    83-109   V     178O
+2/23    Seattle          W   -1'   98-86    H     180O
+2/25    Atlanta          L   -7'   87-93    H     174O
+2/27    Vancouver        W   -4'   86-74    V     188U
+2/28    LA Lakers        L   +8    90-106   V     190O
+3/2     San Antonio      L   -4'   82-99    H     180O
+3/4     LA Clippers      W   -15   96-77    H     192U
+3/6     Vancouver        W   -7    107-92   V     188O
+3/7     Portland         L   +7    71-111   V     183U
+3/9     Denver           L   -11   84-75    H     193U
+3/11    Vancouver        L   -14   102-91   H     187O
+3/13    Cleveland        W   -7    100-89   H     173O
+3/14    Phoenix          L   +3    90-104   V     191O
+3/16    Portland         W   -3'   101-93   H     183O
+3/17    Denver           W   -2'   114-109  V     193O
+3/20    Phoenix          W   -7    103-93   H1    195O
+3/22    Sacramento       W   -7    110-100  H     199O
+3/24    Dallas           W   -4'   88-78    V     187U
+3/25    Toronto          W   -8'   113-104  H     187O
+3/27    Golden St.       L   -5    87-86    V     181U
+3/28    Sacramento       W   +1'   107-93   V     201U
+3/30    LA Clippers      L   -9'   104-95   V     193O
+4/1     Utah             W   +5    87-88    V     184U
+4/4     Seattle          L   P     84-101   V     190U
+4/6     Golden St.       W   -10   111-74   H     180O
+4/8     San Antonio      L   -2'   83-92    H     183U
+4/11    Utah             L   +5    76-85    V     182U
+4/12    Minnesota        W   -2    95-90    V     184O
+4/14    Vancouver        W   -12   102-85   H     189U
+4/15    Portland         W   -1    86-76    H     184U
+4/18    San Antonio      W   +4    83-86    V     179U
+4/19    Seattle          N   -7    120-113  H     189O
+4/21    Dallas           L   -10'  95-109   H     187O
+4/23    LA Clippers      L   -8'   101-106  V1    192O
+4/25    Phoenix          L   +2'   71-95    V     190U
+4/26    LA Lakers        W   -4    102-80   H     195U
+4/29    Dallas           L   -10   81-91    H     190U
+4/30    Utah             L   +3    78-91    H     NL
+5/2     LA Clippers      W   -12'  110-84   H     194N
+5/4     Minnesota        W   -7    100-83   H     191U
+5/5     Denver           N   -7    95-88    V     203U
+5/9     LA Lakers        W   +5    100-101  V     193O
+5/11    LA Lakers        L   +4    98-110   V     195O
+5/13    LA Lakers        W   -5    102-88   H     197U
+5/15    LA Lakers        L   -4'   88-98    H     195U
+
+INDIANA PACERS
+(SUR: 42-21  PSR: 30-30-2)
+2/5     Washington       W   -12   96-81    H     187U
+2/7     Detroit          L   -2'   98-107   V     176O
+2/8     Cleveland        W   -2'   95-89    V     171O
+2/10    Portland         L   +2'   92-100   V     183O
+2/11    Vancouver        L   -13   101-97   V     189O
+2/14    LA Lakers        W   +3    101-99   V     186O
+2/16    Miami            L   -8'   78-89    H     178U
+2/18    Philadelphia     L   -9'   99-95    H     179O
+2/20    Milwaukee        L   -3'   82-80    V     180U
+2/21    New Jersey       L   -8    80-79    H     186U
+2/24    Toronto          W   -12   104-84   H     184O
+2/25    Cleveland        W   -3    81-74    V     175U
+2/26    Orlando          W   +3'   100-103  V1    179O
+3/2     Denver           L   -13   88-81    H     193U
+3/3     Washington       W   -5    106-95   V     185O
+3/5     Golden St.       L   -12'  83-102   H     180O
+3/7     Miami            W   -4    85-72    H     172U
+3/10    New Jersey       W   -10'  93-82    H     180U
+3/12    Milwaukee            NL    109-104  H     NL
+3/14    Boston           L   -9'   99-96    H     189O
+3/16    Atlanta          L   -5'   79-85    H     174U
+3/17    Philadelphia     L   -1'   110-114  V     175O
+3/19    Chicago          L   -14   96-87    H     178O
+3/20    Miami            W   +4'   94-89    V     174O
+3/22    Washington       L   -8    90-86    H     187U
+3/24    Atlanta          L   P     102-103  V     174O
+3/26    New Jersey       W   -5'   100-91   V     187O
+3/28    Boston           W   -5    101-93   V     192O
+3/29    Atlanta          L   -5    82-83    H     175U
+3/30    New York         W   +2'   93-94    V     176O
+4/1     Toronto          L   -2    87-88    V     186U
+4/2     Charlotte        W   -2    87-81    V     187U
+4/4     New York         W   -6'   108-95   H     174O
+4/5     Detroit          W   +2'   88-86    V     181U
+4/7     Chicago          W   -9    91-74    V     182U
+4/9     Detroit          L   -5'   101-102  H     179O
+4/10    Charlotte        L   -8'   90-92    H     188U
+4/12    Toronto          W   -4'   109-99   V     185O
+4/14    Orlando          L   -5'   83-80    H     178U
+4/16    Philadelphia     L   -4    83-93    V     181U
+4/18    Miami            N   +4    88-92    V     175O
+4/19    Boston           W   -6'   120-104  V     185O
+4/21    Milwaukee        W   -7    108-100  H1    186O
+4/24    Chicago          W   -16   87-69    H     178U
+4/25    New Jersey       L   -7    98-120   V     193O
+4/27    Orlando          L   -6    87-88    H     174O
+4/29    Charlotte        N   -5    115-110  H1    187O
+4/30    Atlanta          W   +3    92-90    V1    176O
+5/2     New York         W   -5'   94-71    H     176U
+5/4     Cleveland        W   -12'  100-78   H     177O
+5/9     Milwaukee        W   -7'   110-88   H     181O
+5/11    Milwaukee        L   -8    108-107  H1    186O
+5/13    Milwaukee        W   +1    99-91    V     190N
+5/17    Philadelphia     L   -6'   94-90    H     182O
+5/19    Philadelphia     L   -5'   85-82    H     184U
+5/21    Philadelphia     W   +3'   97-86    V     182O
+5/23    Philadelphia     W   +1    89-86    V     183U
+5/30    New York         L   -5'   90-93    H     177O
+6/1     New York         L   -6    88-86    H     178U
+6/5     New York         W   +2    91-92    V     177O
+6/7     New York         W   -2'   90-78    V     180U
+6/9     New York         L   -6'   94-101   H     177O
+6/11    New York         L   -2'   82-90    V     180U
+
+LOS ANGELES CLIPPERS
+(SUR: 9-41  PSR: 21-28-1)
+2/5     Phoenix          L   +8    92-101   H     197U
+2/7     Chicago          L   -2'   84-89    H     181U
+2/10    Vancouver        L   +1'   99-105   V     187O
+2/13    Phoenix          W   +12'  104-107  V1    200O
+2/14    Minnesota        L   +6'   73-95    H     190U
+2/16    Vancouver        L   -4    89-93    HN2   192U
+2/20    Dallas           L   -2    90-105   H     182O
+2/22    Utah             W   +16   89-104   V     189O
+2/23    Golden St.       L   +2    89-94    H     179O
+2/25    LA Lakers        L   +12   100-115  HN    193O
+2/26    LA Lakers        W   +17   83-99    V     199U
+2/27    Atlanta          L   +9    74-103   HN    173O
+3/2     Dallas           L   +9'   99-112   V     184O
+3/4     Houston          L   +15   77-96    V     192U
+3/6     San Antonio      L   +15   85-114   V     179O
+3/9     LA Lakers        W   +14'  99-103   H     194O
+3/10    LA Lakers        L   +16'  75-94    V     198U
+3/11    Sacramento       W   +9'   106-92   H     199U
+3/13    Portland         W   +11'  96-106   H1    184O
+3/14    Seattle          L   +16   89-108   V     185O
+3/16    New York         L   +11'  89-113   V     182O
+3/17    Boston           L   +12   84-118   V     199O
+3/19    Toronto          L   +8'   82-93    V     191U
+3/21    Minnesota        W   +11'  100-85   V     192U
+3/24    Golden St.       L   +3    80-92    H     180U
+3/26    Seattle          W   +13   98-104   V     184O
+3/27    Utah             W   +11'  103-77   HN    181U
+3/29    Denver           L   +6'   88-100   V     201U
+3/30    Houston          W   +9'   95-104   H     193O
+4/1     Dallas           L   +7'   84-93    V     188U
+4/3     San Antonio      L   +13   82-103   V     185N
+4/4     Denver           W   +7'   80-82    V     198U
+4/6     Phoenix          W   +7    83-88    H     193U
+4/8     Minnesota        W   +4    99-91    H     185O
+4/10    Portland         L   +10   70-97    HN    184U
+4/11    Portland         W   +14   89-83    V     184U
+4/13    New Jersey       W   +2    109-101  H     188O
+4/15    Utah             L   +10'  89-103   H     184O
+4/16    Golden St.       W   +8'   86-83    V     180U
+4/18    Denver           L   -3'   101-103  H     193O
+4/19    Sacramento       W   +5'   98-102   HN    202U
+4/21    Vancouver        N   +3    94-97    V     185O
+4/23    Houston          W   +8'   106-101  H1    192O
+4/24    Vancouver        W   -4'   105-96   H     188O
+4/26    San Antonio      W   +8'   88-94    H     184U
+4/29    Sacramento       L   +8    81-103   V     203U
+5/1     Minnesota        L   +9'   93-103   V     190O
+5/2     Houston          L   +12'  84-110   V     194N
+5/4     Utah             L   +15'  82-99    V     188U
+5/5     Seattle          W   +2'   105-107  H     201O
+
+LOS ANGELES LAKERS
+(SUR: 34-24  PSR: 25-33)
+2/5     Houston          W   -5    99-91    H     195U
+2/7     Utah             L   -4'   91-100   H     190O
+2/8     San Antonio      W   +5'   80-75    V     180U
+2/10    Denver           L   -10   103-98   V     198O
+2/11    Minnesota        L   -2    75-86    V     188U
+2/14    Indiana          L   -3    99-101   H     186O
+2/16    Charlotte        W   -16   116-88   H     189O
+2/17    Dallas           W   -11'  101-88   H     195U
+2/19    San Antonio      W   -4'   106-94   H     179O
+2/21    Seattle          L   -1'   89-92    V     185U
+2/22    Denver           L   -9    113-117  V1    198O
+2/23    Vancouver        L   -7'   83-93    V     197U
+2/25    LA Clippers      W   -12   115-100  VN    193O
+2/26    LA Clippers      L   -17   99-83    H     199U
+2/28    Houston          W   -8    106-90   H     190O
+3/1     Phoenix          W   -4    97-91    V     198U
+3/3     Phoenix          L   -8'   101-95   H     196N
+3/5     Seattle          L   -8    103-100  H     190O
+3/7     Utah             W   +3'   97-89    V     191U
+3/9     LA Clippers      L   -14'  103-99   V     194O
+3/10    LA Clippers      W   -16'  94-75    H     198U
+3/12    Golden St.       L   -14   89-78    H     191U
+3/14    Sacramento       L   -5'   101-105  V     203O
+3/16    Minnesota        W   -5'   107-101  V     190O
+3/18    Cleveland        L   -5'   93-100   V     188O
+3/19    Philadelphia     L   -2'   90-105   V     188O
+3/21    Orlando          W   -1'   115-104  V     187O
+3/22    Dallas           L   -6'   96-93    V     193U
+3/24    Phoenix          L   -8    101-106  H     198O
+3/26    Sacramento       L   -9'   109-111  H     207O
+3/28    New York         W   -7'   99-91    H     184O
+3/29    Vancouver        W   -14'  116-98   H     190O
+4/2     Phoenix          L   -4    91-90    V     197U
+4/3     Golden St.       L   -11   76-81    H     187U
+4/5     Denver           L   -14   117-104  H     196O
+4/6     Utah             L   -2'   93-106   H     187O
+4/7     Sacramento       W   -3'   104-89   V     206U
+4/9     Minnesota        L   -12'  96-89    H     194U
+4/11    Seattle          L   -6'   109-113  H     196O
+4/13    Portland         L   +4'   86-113   V     190O
+4/17    Utah             L   +5'   93-109   V     190O
+4/19    Vancouver        W   -14'  117-102  H     194O
+4/20    Golden St.       W   -3'   106-102  V1    187O
+4/21    Portland         W   +7'   82-88    V     192U
+4/24    San Antonio      L   +6'   81-108   V     185O
+4/26    Houston          L   +4    80-102   V     195U
+4/29    Portland         W   -2    108-89   H     191O
+5/2     Seattle          W   P     91-84    V     199U
+5/3     Dallas           W   -11   115-102  H     195O
+5/5     Portland         W   -5    119-91   H     193O
+5/9     Houston          L   -5    101-100  H     193O
+5/11    Houston          W   -4    110-98   H     195O
+5/13    Houston          L   +5    88-102   V     197U
+5/15    Houston          W   +4'   98-88    V     195U
+5/17    San Antonio      L   +5'   81-87    V     185U
+5/19    San Antonio      W   +4'   76-79    V     182U
+5/22    San Antonio      L   -6    91-103   H     183O
+5/23    San Antonio      L   -4    107-118  H     185O
+
+MIAMI HEAT
+(SUR: 35-20  PSR: 27-26-1)
+2/5     Detroit          L   -6    81-95    H     174O
+2/7     New York         W   +4    83-79    V     170U
+2/8     Charlotte        L   -8    91-94    V     168O
+2/9     Boston           L   -6'   101-108  H     178O
+2/11    Toronto          W   -8'   102-84   H     180O
+2/15    New Jersey       W   -5    95-72    H     177U
+2/16    Indiana          W   +8'   89-78    V     178U
+2/17    Detroit          W   +1    91-80    V     170O
+2/20    Houston          W   -6    81-71    H     179U
+2/23    Washington       W   -2    96-80    V     176N
+2/24    Charlotte        L   -9'   91-83    V     172O
+2/26    Detroit          L   -1    93-95    V     174O
+2/28    Orlando          W   -2    84-78    H     170U
+3/2     New York         L   -8    85-84    H1    165O
+3/4     Denver           L   -12'  95-87    H     179O
+3/5     Philadelphia     W   P     89-78    V     170U
+3/7     Indiana          L   +4    72-85    V     172U
+3/8     Philadelphia     L   -6'   91-89    H     169O
+3/10    Atlanta          W   -4    88-78    H     172U
+3/11    Toronto          W   -9    83-73    H     176U
+3/14    New Jersey       W   -8    102-76   H     175O
+3/16    Washington       L   -10   94-85    H     176O
+3/17    Atlanta          W   +1'   86-85    V     167O
+3/20    Indiana          L   -4'   89-94    H     174O
+3/23    Utah             W   +5'   81-84    V     173U
+3/24    Milwaukee        W   -2'   84-76    V     175U
+3/26    Minnesota        L   -3'   93-100   V     173O
+3/28    Orlando          L   +1'   87-94    V     168O
+4/1     Philadelphia     L   -6'   84-88    H     174U
+4/3     New Jersey       L   -8    77-88    V     177U
+4/4     Washington       W   -2'   90-79    V     177U
+4/6     Toronto          W   -3    92-70    V     174U
+4/7     Dallas           L   -10'  93-87    H     175O
+4/10    Chicago          W   -10   82-49    V     172U
+4/11    Milwaukee        L   -6'   95-92    H     174O
+4/13    Chicago          W   -14   90-74    H     170U
+4/14    Milwaukee        L   -1    86-98    V     176O
+4/16    Boston           L   -6    81-82    V     175U
+4/18    Indiana          N   -4    92-88    H     175O
+4/19    Cleveland        W   -2'   94-87    V     168O
+4/21    Cleveland        W   -7    93-80    H     171O
+4/22    Orlando          W   +2    75-70    V     170U
+4/25    New York         L   -6'   80-82    H     167U
+4/26    Cleveland        W   -7    90-65    V     168U
+4/27    New Jersey       W   -6    95-76    V     178U
+4/29    Boston           L   -8    96-107   H     178O
+5/1     Chicago          L   -12'  86-101   H     174O
+5/2     Charlotte            NL    100-93   H     NL
+5/4     Atlanta          W   -4'   93-79    H     167O
+5/5     New York         L   +1    88-101   V     169O
+5/8     New York         L   -6    75-95    H     165O
+5/10    New York         W   -6'   83-73    H     165U
+5/12    New York         L   +2'   73-97    V     165O
+5/14    New York         W   +2    87-72    V     165U
+5/16    New York         L   -5    77-78    H     165U
+
+
+MILWAUKEE BUCKS
+(SUR: 28-25  PSR: 24-27)
+2/6     Charlotte        L   -6'   113-107  V1    171O
+2/9     Toronto          W   -4'   91-77    VN    191U
+2/11    New Jersey       W   -8'   95-75    H     NL
+2/14    Orlando          W   +4'   82-85    V     180U
+2/16    Philadelphia     W   +1    93-92    V     177O
+2/17    Chicago          L   -11'  91-83    H     172O
+2/19    Toronto          L   -6    82-90    VN    187U
+2/20    Indiana          W   +3'   80-82    H     180U
+2/23    Chicago          L   -8'   90-88    V     165O
+2/26    Denver           L   -7    95-96    V     187O
+2/28    Philadelphia     L   -4    76-87    H     177U
+3/2     New Jersey       W   +2'   94-86    V     180N
+3/3     Golden St.       W   -6'   106-78   H     177O
+3/5     New York         W   P     88-87    H     168O
+3/8     Chicago          L   -11   81-76    H     172U
+3/9     New York         W   +6'   87-86    V     171U
+3/10    Seattle          W   +2    101-97   H     176O
+3/12    Indiana              NL    104-109  V     NL
+3/14    Washington       L   -1'   86-98    V     182O
+3/15    New York         L   -2'   102-108  H     172O
+3/16    Phoenix          L   +2'   92-110   H     190O
+3/18    Boston           W   -5    99-83    H     194U
+3/20    Atlanta          W   +4'   83-77    V     178U
+3/21    Charlotte        L   -5    87-94    H     181N
+3/22    Detroit          W   -1    115-86   H     177O
+3/24    Miami            L   +2'   76-84    H     175U
+3/26    Detroit          W   +6    85-90    V     176U
+3/28    Minnesota        W   +3'   94-85    V     186U
+3/30    Washington       L   -3'   107-105  H     187O
+3/31    Charlotte        W   +3'   102-94   V     186O
+4/2     Boston           L   -2    84-83    V     187U
+4/4     Cleveland        L   +2'   74-98    V     180U
+4/6     Philadelphia     L   -1'   87-95    V     172O
+4/7     Cleveland        W   -4'   99-91    H     179O
+4/9     Orlando          L   +4    83-95    V     180U
+4/11    Miami            W   +6'   92-95    V     174O
+4/13    Atlanta          W   -5    91-84    H     170O
+4/14    Miami            W   +1    98-86    H     176O
+4/16    Charlotte        L   -5    94-95    H     182O
+4/18    Chicago          L   -7'   77-79    V     175U
+4/20    Orlando          W   -3'   95-83    H     176O
+4/21    Indiana          L   +7    100-108  V1    186O
+4/23    Cleveland        L   -7'   79-75    H     177U
+4/25    Atlanta          L   +5    70-85    V     173U
+4/26    Washington       L   -10   99-91    H     187O
+4/28    Toronto          W   -6    115-102  H     187O
+4/30    Detroit          L   -3    76-81    H     179U
+5/1     Boston           W   +2'   88-79    V     NL
+5/4     Toronto              NL    99-86    H     NL
+5/5     New Jersey       L   -1    107-115  V     194O
+5/9     Indiana          L   +7'   88-110   V     181O
+5/11    Indiana          W   +8    107-108  V1    186O
+5/13    Indiana          L   -1    91-99    H     190N
+
+MINNESOTA TIMBERWOLVES
+(SUR: 26-28  PSR: 25-28)
+2/5     Denver           W   -3    110-92   V     194O
+2/6     San Antonio      L   +9    82-96    V     184U
+2/9     San Antonio      W   +2    74-70    H     178U
+2/11    LA Lakers        W   +2    86-75    H     188U
+2/14    LA Clippers      W   -6'   95-73    V     190U
+2/15    Golden St.       L   -7    99-101   V     175O
+2/17    Houston          W   -4'   116-102  H     186O
+2/19    Vancouver        W   -11'  115-96   H     190O
+2/21    Sacramento       W   -4'   102-90   H     203U
+2/22    San Antonio      W   -2    95-89    H     177O
+2/25    New York         W   +3'   113-115  V1    175O
+2/26    Toronto          L   -4'   92-102   V     192O
+2/28    Portland         L   -5'   93-100   H     188O
+3/2     Golden St.       W   -10   89-78    H     189U
+3/4     Vancouver        W   -8    102-93   V     196U
+3/5     Portland         L   +6    85-97    V     189U
+3/7     Seattle          W   +6    88-77    V     188U
+3/9     Seattle          L   -2    85-84    H     186U
+3/11    Golden St.       L   -2'   82-89    V     184U
+3/12    Sacramento       W   +5'   101-95   V     NL
+3/13    Utah             L   +10   72-99    V     184U
+3/15    Utah             L   +3    83-90    H     182U
+3/16    LA Lakers        L   +5'   101-107  H     190O
+3/18    Vancouver        L   -6'   81-86    V     186U
+3/19    Denver           W   P     105-101  V     196O
+3/21    LA Clippers      L   -11'  85-100   H     192U
+3/24    Boston           W   P     87-68    V     189U
+3/26    Miami            W   +3'   100-93   H     173O
+3/28    Milwaukee        L   -3'   85-94    H     186U
+3/30    Dallas           W   -6    98-78    H     183U
+4/2     Denver           W   -10   107-88   H     188O
+4/3     Sacramento       W   -3'   105-96   H     198O
+4/5     Dallas           L   -8    100-93   H     183O
+4/7     Phoenix          L   +4'   82-90    V     185U
+4/8     LA Clippers      L   -4    91-99    V     185O
+4/9     LA Lakers        W   +12'  89-96    V     194U
+4/11    Detroit          W   +1    88-79    H     179U
+4/12    Houston          L   +2    90-95    H     184O
+4/14    San Antonio      L   +11   79-95    V     177U
+4/15    Dallas           L   +5'   95-101   V     NL
+4/16    Vancouver            NL    89-75    H     NL
+4/18    Utah             L   +4'   76-97    H     182U
+4/21    Seattle          L   +4'   105-119  V     188O
+4/23    Sacramento       L   +4    97-105   V     201O
+4/25    Portland         L   +9    84-100   V     185U
+4/28    Phoenix          W   -2    97-92    H     187O
+4/30    Golden St.       L   -10   90-85    H     182U
+5/1     LA Clippers      W   -9'   103-93   H     190O
+5/4     Houston          L   +7    83-100   V     191U
+5/5     Phoenix          W   +6    96-100   V     192O
+5/9     San Antonio      L   +10'  86-99    V     175O
+5/11    San Antonio      W   +10'  80-71    V     178U
+5/13    San Antonio      L   +4    71-85    H     176U
+5/15    San Antonio      L   +4'   85-92    H     173O
+NEW JERSEY NETS
+(SUR: 16-34  PSR: 19-26-2)
+2/6     Atlanta          W   +5'   106-111  V     188O
+2/7     Atlanta              NL    79-69    H     NL
+2/10    Orlando          L   +1'   81-89    H     NL
+2/11    Milwaukee        L   +8'   75-95    V     NL
+2/15    Miami            L   +5    72-95    V     177U
+2/16    Detroit          W   -1'   97-82    H     177O
+2/18    Houston          L   -5'   92-93    H     187U
+2/20    Cleveland        N   +5    84-89    V     176U
+2/21    Indiana          W   +8    79-80    V     186U
+2/23    New York         L   +4'   74-82    V     169U
+2/24    Portland         L   +3'   85-94    H     180U
+2/27    Boston           L   -5    92-101   H     187O
+3/1     Boston           W   +4    99-97    V     190O
+3/2     Milwaukee        L   -2'   86-94    H     180N
+3/4     Charlotte        L   -12   82-96    H     181U
+3/7     New York         L   +7'   86-97    V     172O
+3/9     Chicago          L   -4    87-103   V     171O
+3/10    Indiana          L   +10'  82-93    V     180U
+3/12    Philadelphia         NL    93-100   V1    NL
+3/14    Miami            L   +8    76-102   V     175O
+3/16    Toronto              NL    85-100   V     NL
+3/17    Dallas           L   -4'   88-87    H     183U
+3/18    Chicago          L   -1    95-104   V     174O
+3/21    Cleveland        W   +5'   85-88    V     180U
+3/22    Toronto          W   -5    106-87   H     181O
+3/24    Detroit          L   P     71-84    H     183U
+3/26    Indiana          L   +5'   91-100   H     187O
+3/27    Cleveland        L   +4    99-109   H     176O
+3/30    Orlando          W   +8'   98-100   V     184O
+4/1     Atlanta          W   +4    90-85    H     176U
+4/3     Miami            W   +8    88-77    H     177U
+4/4     Boston           W   +6'   91-79    V     190U
+4/6     Washington       W   +6'   97-93    V     189O
+4/7     Philadelphia     L   P     92-96    H     179O
+4/9     Toronto          W   -2'   106-99   H     187O
+4/11    New York         L   +2'   78-93    H     179U
+4/13    LA Clippers      L   -2    101-109  V     188O
+4/14    Denver           L   +3    97-120   V     202O
+4/16    Seattle          W   +7    121-91   V     194O
+4/18    Philadelphia     W   +2    86-79    H     186U
+4/19    Charlotte        L   +2'   113-120  H     185O
+4/21    Chicago          W   -11   99-87    H     179O
+4/24    Charlotte        L   +5'   82-97    V     194U
+4/25    Indiana          W   +7    120-98   H     193O
+4/27    Miami            L   +6    76-95    H     178U
+4/28    Detroit          W   +12   93-101   V     183O
+4/30    Orlando          N   +12   95-107   V     186O
+5/1     Washington       W   -1    102-91   H     192O
+5/3     Washington       L   +6'   102-113  V     196O
+5/5     Milwaukee        W   +1    115-107  H     194O
+
+NEW YORK KNICKS
+(SUR: 39-31  PSR: 35-30-2)
+2/5     Orlando          L   P     85-93    V     181U
+2/7     Miami            L   -4    79-83    H     170U
+2/10    Washington       W   -5'   101-88   H     183O
+2/11    Chicago          L   -6    73-68    V     169U
+2/15    Detroit          W   -3'   78-69    H     175U
+2/16    Toronto          W   -8    95-85    H     177O
+2/18    Cleveland        L   +1    74-98    V     170O
+2/19    Philadelphia     W   +2    78-67    V     171U
+2/21    Chicago          W   -10   79-63    H     169U
+2/23    New Jersey       W   -4'   82-74    H     169U
+2/25    Minnesota        L   -3'   115-113  H1    175O
+2/26    Boston           L   +3'   80-94    V     180U
+2/28    Detroit          L   +4    68-89    V     170U
+3/1     Cleveland        W   -4    85-78    H     165U
+3/2     Miami            W   +8    84-85    V1    165O
+3/5     Milwaukee        L   P     87-88    V     168O
+3/7     New Jersey       W   -7'   97-86    H     172O
+3/9     Milwaukee        L   -6'   86-87    H     171U
+3/11    Washington       W   -7    98-86    H     172O
+3/12    Chicago          L   -4    63-76    V     168U
+3/14    Charlotte        N   -8    94-86    H     169O
+3/15    Milwaukee        W   +2'   108-102  V     172O
+3/16    LA Clippers      W   -11'  113-89   H     182O
+3/18    Orlando          L   -4    78-86    H     175U
+3/20    Boston           W   -8    96-78    H     185U
+3/21    Toronto          L   -3    81-85    V1    174U
+3/22    Atlanta          L   -1    71-80    H     167U
+3/24    Sacramento       W   +2    91-92    V     184U
+3/26    Phoenix          W   -1    94-87    V     178O
+3/28    LA Lakers        L   +7'   91-99    V     184O
+3/30    Indiana          L   -2'   94-93    H     176O
+4/1     Cleveland        L   -5'   78-74    H     175U
+4/4     Indiana          L   +6'   95-108   V     174O
+4/6     Orlando          L   -4'   72-81    H     174U
+4/7     Charlotte        L   -1'   82-106   V     175O
+4/9     Atlanta          W   +1'   86-78    V     168U
+4/11    New Jersey       W   -2'   93-78    V     179U
+4/13    Philadelphia     W   -4    91-72    H     173U
+4/14    Washington       L   -1'   89-95    V1    177O
+4/16    Detroit              NL    71-80    V     NL
+4/17    Toronto              NL    90-93    H     NL
+4/19    Philadelphia     L   +2    67-72    V     168U
+4/23    Charlotte        N   -5    110-105  H     173O
+4/25    Miami            W   +6'   82-80    V     167U
+4/26    Charlotte        W   +5'   91-84    V     175N
+4/28    Atlanta              NL    73-76    V     NL
+4/29    Philadelphia     W   -3'   85-70    H     166U
+5/2     Indiana          L   +5'   71-94    V     176U
+5/3     Boston           L   -7'   95-88    H     177O
+5/5     Miami            W   -1    101-88   H     169O
+5/8     Miami            W   +6    95-75    V     165O
+5/10    Miami            L   +6'   73-83    V     165U
+5/12    Miami            W   -2'   97-73    H     165O
+5/14    Miami            L   -2    72-87    H     165U
+5/16    Miami            W   +5    78-77    V     165U
+5/18    Atlanta          W   +4    100-92   V     163O
+5/20    Atlanta          W   +4    77-70    V     165U
+5/23    Atlanta          W   -5    90-78    H     165O
+5/24    Atlanta          W   -6'   79-66    H     167U
+5/30    Indiana          W   +5'   93-90    V     177O
+6/1     Indiana          W   +6    86-88    V     178U
+6/5     Indiana          L   -2    92-91    H     177O
+6/7     Indiana          L   +2'   78-90    H     180U
+6/9     Indiana          W   +6'   101-94   V     177O
+6/11    Indiana          W   +2'   90-82    H     180U
+6/16    San Antonio      L   +9    77-89    V     172U
+6/18    San Antonio      L   +8'   67-80    V     171U
+6/21    San Antonio      W   +3'   89-81    H     169O
+6/23    San Antonio      L   +4    89-96    H     170O
+6/25    San Antonio      W   +5    77-78    H     171U
+
+ORLANDO MAGIC
+(SUR: 34-20  PSR: 26-27-1)
+2/5     New York         W   P     93-85    H     181U
+2/6     Philadelphia     L   -2'   75-95    V     175U
+2/8     Boston           W   -6'   107-90   H     180O
+2/10    New Jersey       W   -1'   89-81    V     NL
+2/11    Detroit          W   +5    87-81    V     182U
+2/14    Milwaukee        L   -4'   85-82    H     180U
+2/16    Cleveland        L   +2'   78-90    V     172U
+2/17    Washington       W   -5    96-85    H     180O
+2/19    Atlanta          W   +5    99-94    V1    173O
+2/21    Houston          W   -8    109-83   H     178O
+2/22    Sacramento       W   -7    107-96   H     190O
+2/24    Boston           L   -2'   79-111   V     189O
+2/26    Indiana          L   -3'   103-100  H1    179O
+2/28    Miami            L   +2    78-84    V     170U
+3/1     Atlanta          L   -6    70-67    H     172U
+3/3     Charlotte        W   -12'  93-76    H     182U
+3/5     Toronto          L   -6'   89-84    V     178U
+3/6     Detroit          W   -2'   87-82    H     176U
+3/8     Atlanta          L   -3'   110-114  H     168O
+3/10    San Antonio      W   +5    79-81    V     173U
+3/11    Dallas           L   -4    76-93    V     176U
+3/13    Golden St.       W   -5'   87-74    V     172U
+3/15    Philadelphia     L   -5    74-73    H     173U
+3/17    Chicago          L   -12'  103-94   H     169O
+3/18    New York         W   +4    86-78    V     175U
+3/21    LA Lakers        L   +1'   104-115  H     187O
+3/23    Charlotte        W   -6'   86-78    H     178U
+3/25    Cleveland        W   -6'   96-86    H     173O
+3/26    Charlotte        L   +4    82-90    V     176U
+3/28    Miami            W   -1'   94-87    H     168O
+3/30    New Jersey       L   -8'   100-98   H     184O
+3/31    Washington       L   +2    73-84    V     184U
+4/2     Chicago          W   -5'   115-68   V     172O
+4/3     Detroit          W   +6'   92-77    V     175U
+4/5     Boston           L   -10   106-99   H     186O
+4/6     New York         W   +4'   81-72    V     174U
+4/8     Cleveland        W   -1'   73-69    V     175U
+4/9     Milwaukee        W   -4    95-83    H     180U
+4/14    Indiana          W   +5'   80-83    V     178U
+4/16    Atlanta          L   -1    79-91    V     168O
+4/18    Detroit          W   -5    88-81    H     172U
+4/19    Toronto          L   -2'   72-90    V     174U
+4/20    Milwaukee        L   +3'   83-95    V     176O
+4/22    Miami            L   -2    70-75    H     170U
+4/23    Toronto          L   -6    88-95    H     179O
+4/25    Philadelphia     L   +2    86-103   V     169O
+4/27    Indiana          W   +6    88-87    V     174O
+4/28    Washington       L   -9    93-86    H     181U
+4/30    New Jersey       N   -12   107-95   H     186O
+5/5     Chicago          W   -7'   103-83   V     176O
+5/9     Philadelphia     L   -5    90-104   H     169O
+5/11    Philadelphia     W   -5'   79-68    H     172U
+5/13    Philadelphia     L   +4    85-97    V     170O
+5/15    Philadelphia     L   +3    91-101   V     172O
+
+PHILADELPHIA 76ERS
+(SUR: 31-27  PSR: 31-23-1)
+2/5     Charlotte        W   -2    78-66    V     181U
+2/6     Orlando          W   +2'   95-75    H     175U
+2/9     Detroit          L   -4'   90-86    H     182U
+2/12    San Antonio      L   +2    94-98    H     169O
+2/14    Atlanta          W   +2'   78-70    H     181U
+2/16    Milwaukee        L   -1    92-93    H     177O
+2/18    Indiana          W   +9'   95-99    V     179O
+2/19    New York         L   -2    67-78    H     171U
+2/20    Atlanta          L   +4    69-76    H     169U
+2/22    Cleveland        W   +5'   106-97   V     170O
+2/24    Sacramento       W   -2    94-81    H     190U
+2/25    Chicago          W   -4    98-80    V     166O
+2/28    Milwaukee        W   +4    87-76    V     177U
+3/1     Washington       W   +3    104-91   V     181O
+3/3     Chicago          W   -11'  102-86   H     171O
+3/5     Miami            L   P     78-89    H     170U
+3/7     Washington       L   -6    95-103   H1    182O
+3/8     Miami            W   +6'   89-91    V     169O
+3/10    Charlotte        W   -13'  85-70    H     180U
+3/12    New Jersey           NL    100-93   H1    NL
+3/15    Orlando          W   +5    73-74    V     173U
+3/17    Indiana          W   +1'   114-110  H     175O
+3/19    LA Lakers        W   +2'   105-90   H     188O
+3/21    Portland         L   +6    75-91    V     178U
+3/22    Seattle          L   +3'   76-92    V     175U
+3/24    Vancouver        L   -6'   95-90    V1    174O
+3/26    Boston           L   -6'   84-90    H     184U
+3/27    Atlanta              NL    99-103   V1    NL
+3/30    Chicago              NL    81-91    V     NL
+4/1     Miami            W   +6'   88-84    V     174U
+4/2     Cleveland        L   -4'   80-85    H     176U
+4/4     Toronto          L   +6    82-97    V     173O
+4/6     Milwaukee        W   +1'   95-87    H     172O
+4/7     New Jersey       W   P     96-92    V     179O
+4/9     Boston           W   -2'   83-67    V     184U
+4/11    Washington       L   +1'   98-105   V     184O
+4/13    New York         L   +4    72-91    V     173U
+4/14    Toronto          W   -4'   96-78    H     184U
+4/16    Indiana          W   +4    93-83    H     181U
+4/18    New Jersey       L   -2    79-86    V     186U
+4/19    New York         W   -2    72-67    H     168U
+4/21    Boston           L   -5'   80-78    V     180U
+4/22    Detroit          W   +6    104-96   V     172O
+4/25    Orlando          W   -2    103-86   H     169O
+4/27    Cleveland        L   -10'  80-71    H     168U
+4/29    New York         L   +3'   70-85    V     166U
+5/1     Toronto          N   -7    103-96   H     179O
+5/2     Detroit          W   +6'   96-100   V     176O
+5/4     Charlotte        L   +3'   110-117  V1    183O
+5/5     Detroit          W   -2'   105-100  H1    180O
+5/9     Orlando          W   +5    104-90   V     169O
+5/11    Orlando          L   +5'   68-79    V     172U
+5/13    Orlando          W   -4    97-85    H     170O
+5/15    Orlando          W   -3    101-91   H     172O
+5/17    Indiana          W   +6'   90-94    V     182O
+5/19    Indiana          W   +5'   82-85    V     184U
+5/21    Indiana          L   -3'   86-97    H     182O
+5/23    Indiana          L   -1    86-89    H     183U
+
+PHOENIX SUNS
+(SUR: 27-26  PSR: 26-27)
+2/5     LA Clippers      W   -8    101-92   V     197U
+2/7     Denver           L   -11'  115-108  H     199O
+2/9     Sacramento       L   -8    95-112   H     203O
+2/11    Utah             L   +2'   74-82    H     196U
+2/13    LA Clippers      L   -12'  107-104  H1    200O
+2/15    Denver           W   -4'   115-106  V     203O
+2/16    Houston          L   +4'   92-109   V     191O
+2/17    San Antonio      W   +9    79-76    V     180U
+2/19    Detroit          L   -5'   93-101   H     187O
+2/22    Dallas           W   -7    101-83   H     197U
+2/25    Vancouver        W   -6'   94-86    V     196U
+2/26    Golden St.       L   -2'   90-94    V     183O
+2/28    Golden St.       W   -10   102-89   H     187O
+3/1     LA Lakers        L   +4    91-97    H     198U
+3/3     LA Lakers        W   +8'   95-101   V     196N
+3/4     Seattle          W   +9    101-93   V     187O
+3/6     Sacramento       L   -5'   99-111   H     203O
+3/9     Dallas           W   -4'   103-91   V     190O
+3/10    Cleveland        L   -4'   73-86    H     183U
+3/12    San Antonio      L   +1    97-99    H     182O
+3/14    Houston          W   -3    104-90   H     191O
+3/16    Milwaukee        W   -2'   110-92   V     190O
+3/17    Charlotte        L   -4    111-119  V     189O
+3/19    Atlanta          L   +4'   85-93    V     186U
+3/20    Houston          L   +7    93-103   V1    195O
+3/22    Vancouver        L   -12   89-84    H     190U
+3/24    LA Lakers        W   +8    106-101  V     198O
+3/25    Portland         L   +8'   84-97    V     185U
+3/26    New York         L   +1    87-94    H     178O
+3/28    Portland         W   +2'   86-88    H     185U
+3/31    Golden St.       W   -8    93-78    H     183U
+4/2     LA Lakers        W   +4    90-91    H     197U
+4/3     Portland         W   +8'   93-98    V     185O
+4/6     LA Clippers      L   -7    88-83    V     193U
+4/7     Minnesota        W   -4'   90-82    H     185U
+4/9     Utah             W   +8'   92-93    V     184O
+4/10    San Antonio      W   +4'   110-84   H     181O
+4/12    San Antonio      L   +9    77-94    V     183U
+4/14    Seattle          W   +6    101-94   V     188O
+4/16    Dallas           L   -8    92-85    H     187U
+4/18    Seattle          W   -3    99-93    H     191O
+4/20    Dallas           L   -2'   100-104  V     188O
+4/21    Utah             W   +3    91-82    H     183U
+4/25    Houston          W   -2'   95-71    H     190U
+4/26    Utah             W   +8'   99-85    V     184N
+4/28    Minnesota        L   +2    92-97    V     187O
+4/29    Denver           W   -3'   98-87    V     200U
+5/1     Vancouver        W   -12'  107-77   H     187U
+5/2     Sacramento       L   +5    100-111  V     203O
+5/5     Minnesota        L   -6    100-96   H     192O
+5/8     Portland         L   +6'   85-95    V     180N
+5/10    Portland         L   +6    99-110   V     181O
+5/12    Portland         L   -3'   93-103   H     186O
+
+PORTLAND TRAIL BLAZERS
+(SUR: 42-21  PSR: 36-26-1)
+2/7     Seattle          W   +4'   88-91    V     184U
+2/8     Vancouver        W   -10'  95-76    V     188U
+2/10    Indiana          W   -2'   100-92   H     183O
+2/14    Golden St.       L   -8    100-105  V2    176O
+2/15    Dallas           W   -9    99-84    H     184U
+2/17    Denver           W   -12'  100-85   H     195U
+2/19    Boston           W   -9    106-86   H     192N
+2/20    Golden St.       L   -13'  90-84    H     179U
+2/24    New Jersey       W   -3'   94-85    V     180U
+2/26    Charlotte        L   -10'  95-97    V     179O
+2/27    Washington       L   -2    82-81    V     187U
+2/28    Minnesota        W   +5'   100-93   V     188O
+3/2     Utah             W   -1'   102-100  H2    182O
+3/3     Sacramento       W   +1    97-93    V1    194U
+3/5     Minnesota        W   -6    97-85    H     189U
+3/7     Houston          W   -7    111-71   H     183U
+3/8     Vancouver        W   -8'   92-73    V     188U
+3/9     Sacramento       L   -5'   103-98   H     189O
+3/12    Utah             L   -3    77-91    H     180U
+3/13    LA Clippers      L   -11'  106-96   V1    184O
+3/15    Dallas           W   -6    106-91   V     178O
+3/16    Houston          L   +3'   93-101   V     183O
+3/18    Sacramento       W   -2'   88-78    V     195U
+3/19    San Antonio      W   -1    90-85    H     175N
+3/21    Philadelphia     W   -6    91-75    H     178U
+3/23    Golden St.       L   -11   79-72    H     177U
+3/25    Phoenix          W   -8'   97-84    H     185U
+3/28    Phoenix          L   -2'   88-86    V     185U
+3/30    Golden St.       L   -6    90-93    V     175O
+3/31    Sacramento       W   -10   100-86   H     190U
+4/2     Seattle          W   -10   107-95   H     183O
+4/3     Phoenix          L   -8'   98-93    H     185O
+4/6     Vancouver        L   -14'  98-89    H     182O
+4/8     Seattle          L   -2    86-87    V     185U
+4/10    LA Clippers      W   -10   97-70    VN    184U
+4/11    LA Clippers      L   -14   83-89    H     184U
+4/13    LA Lakers        W   -4'   113-86   H     190O
+4/15    Houston          L   +1    76-86    V     184U
+4/16    San Antonio      W   +3'   80-81    V     176U
+4/17    Dallas           W   -7    102-94   V     178O
+4/21    LA Lakers        L   -7'   88-82    H     192U
+4/23    Utah             L   +4    85-96    V     173O
+4/25    Minnesota        W   -9    100-84   H     185U
+4/26    Denver           W   -13'  93-77    H     189U
+4/28    Seattle          W   -9    119-84   H     186O
+4/29    LA Lakers        L   +2    89-108   V     191O
+5/1     San Antonio      L   +3'   90-98    V1    173O
+5/2     Denver           N   -8    110-102  V     192O
+5/4     San Antonio      L   -4'   81-87    H     171U
+5/5     LA Lakers        L   +5    91-119   V     193O
+5/8     Phoenix          W   -6'   95-85    H     180N
+5/10    Phoenix          W   -6    110-99   H     181O
+5/12    Phoenix          W   +3'   103-93   V     186O
+5/18    Utah             L   +3'   83-93    V     179U
+5/20    Utah             W   +3    84-81    V     181U
+5/22    Utah             W   -4'   97-87    H     177O
+5/23    Utah             W   -4    81-75    H     177U
+5/25    Utah             L   +4'   71-88    V     176U
+5/27    Utah             W   -4    92-80    H     174U
+5/29    San Antonio      W   +6    76-80    V     173U
+5/31    San Antonio      W   +4'   85-86    V     170O
+6/4     San Antonio      L   -5'   63-85    H     173U
+6/6     San Antonio      L   -2    80-94    H     173O
+
+SACRAMENTO KINGS
+(SUR: 29-26  PSR: 24-30)
+2/5     San Antonio      L   +12   83-101   V     178O
+2/7     Vancouver        W   -8    109-87   H     183O
+2/9     Phoenix          W   +8    112-95   V     203O
+2/10    Houston          L   +9    82-92    V     192U
+2/15    Utah             W   +11   112-120  V1    192O
+2/16    Boston           L   -3'   101-98   H     200U
+2/17    Seattle          W   +12   109-106  V1    183O
+2/19    Charlotte        L   -12   106-95   H     194O
+2/21    Minnesota        L   +4'   90-102   V     203U
+2/22    Orlando          L   +7    96-107   V     190O
+2/24    Philadelphia     L   +2    81-94    V     190U
+2/25    Washington       W   +5    115-105  V     194O
+2/27    Dallas           L   -4'   90-97    V     190U
+3/1     Seattle          L   +2    102-105  H     191O
+3/2     Vancouver        W   -3    111-101  V     196O
+3/3     Portland         L   -1    93-97    H1    194U
+3/6     Phoenix          W   +5'   111-99   V     203O
+3/7     Dallas           L   -8    94-89    H     194U
+3/9     Portland         W   +5'   98-103   V     189O
+3/11    LA Clippers      L   -9'   92-106   V     199U
+3/12    Minnesota        L   -5'   95-101   H     NL
+3/14    LA Lakers        W   +5'   105-101  H     203O
+3/15    Golden St.       W   +1    111-105  V     189O
+3/16    San Antonio      L   +5    109-121  H     191O
+3/18    Portland         L   +2'   78-88    H     195U
+3/20    Dallas           L   -3    90-104   V     194N
+3/22    Houston          L   +7    100-110  V     199O
+3/24    New York         L   -2    92-91    H     184U
+3/26    LA Lakers        W   +9'   111-109  V     207O
+3/28    Houston          L   -1'   93-107   H     201U
+3/30    Utah             W   +6    104-101  H1    189O
+3/31    Portland         L   +10   86-100   V     190U
+4/3     Minnesota        L   +3'   96-105   V     198O
+4/6     Seattle          W   +5    112-106  V1    199O
+4/7     LA Lakers        L   +3'   89-104   H     206U
+4/10    Denver           L   -8'   110-104  H     201O
+4/11    Vancouver        W   -2'   91-88    V     195U
+4/13    Utah             L   +3    100-105  H1    192O
+4/15    Seattle          L   -2    98-99    H1    203U
+4/17    Denver           W   -8    119-97   H     204O
+4/19    LA Clippers      L   -5'   102-98   VN    202U
+4/21    Golden St.       W   -7    103-94   H     192O
+4/23    Minnesota        W   -4    105-97   H     201O
+4/24    Dallas           L   -6'   105-102  H     198O
+4/26    Golden St.       L   +2'   89-114   V     191O
+4/27    San Antonio          NL    104-100  H1    NL
+4/29    LA Clippers      W   -8    103-81   H     203U
+5/2     Phoenix          W   -5    111-100  H     203O
+5/3     Denver           W   -3    112-104  V     209O
+5/5     Vancouver        L   -10'  99-95    H     200U
+5/8     Utah             L   +10   87-117   V     191O
+5/10    Utah             W   +10   101-90   V     194U
+5/12    Utah             W   +5    84-81    H1    195U
+5/14    Utah             W   +5'   89-90    H     190U
+5/16    Utah             W   +8'   92-99    V1    188O
+
+SAN ANTONIO SPURS
+(SUR: 52-15  PSR: 39-27)
+2/5     Sacramento       W   -12   101-83   H     178O
+2/6     Minnesota        W   -9    96-82    H     184U
+2/8     LA Lakers        L   -5'   75-80    H     180U
+2/9     Minnesota        L   -2    70-74    V     178U
+2/11    Cleveland        L   -2'   89-99    V     168O
+2/12    Philadelphia     W   -2    98-94    V     169O
+2/14    Chicago          W   -7'   89-76    V     167U
+2/17    Phoenix          L   -9    76-79    H     180U
+2/19    LA Lakers        L   +4'   94-106   V     179O
+2/21    Detroit          W   -7    85-64    H     173U
+2/22    Minnesota        L   +2    89-95    V     177O
+2/24    Seattle          W   -5    99-81    H     173O
+2/26    Seattle          L   +4'   82-92    V     176U
+2/28    Utah             L   -2'   87-101   H     170O
+3/2     Houston          W   +4'   99-82    V     180O
+3/4     Dallas           W   -6    95-79    V     177U
+3/6     LA Clippers      W   -15   114-85   H     179O
+3/7     Denver           W   -7    106-96   V     185O
+3/10    Orlando          L   -5    81-79    H     173U
+3/12    Phoenix          W   -1    99-97    V     182O
+3/13    Denver           W   -10'  92-61    H     182U
+3/16    Sacramento       W   -5    121-109  V     191O
+3/17    Golden St.       L   -5'   82-78    V     176U
+3/19    Portland         L   +1    85-90    V     175N
+3/20    Vancouver        L   -9    92-88    V1    175O
+3/23    Denver           W   -10'  112-82   H     182O
+3/25    Denver           W   -7    86-65    V     194U
+3/26    Toronto          L   -10'  91-93    H     180O
+3/27    Dallas           W   -10   99-77    H     NL
+3/30    Seattle          L   -9'   95-87    H     179O
+4/1     Vancouver        L   -14   103-91   H     177O
+4/3     LA Clippers      W   -13   103-82   H     185N
+4/5     Golden St.       L   -10   93-86    H     174O
+4/8     Houston          W   +2'   92-83    V     183U
+4/10    Phoenix          L   -4'   84-110   V     181O
+4/12    Phoenix          W   -9    94-77    H     183U
+4/13    Dallas           L   -5'   86-92    V     177O
+4/14    Minnesota        W   -11   95-79    H     177U
+4/16    Portland         L   -3'   81-80    H     176U
+4/18    Houston          L   -4    86-83    H     179U
+4/20    Utah             W   +4'   83-69    V     175U
+4/22    Dallas           W   -13   103-76   H     179N
+4/24    LA Lakers        W   -6'   108-81   H     185O
+4/26    LA Clippers      L   -8'   94-88    V     184U
+4/27    Sacramento           NL    100-104  V1    NL
+4/29    Vancouver        W   -10   99-72    V     179U
+5/1     Portland         W   -3'   98-90    H1    173O
+5/2     Utah             W   -1    84-78    H     171U
+5/4     Portland         W   +4'   87-81    V     171U
+5/5     Golden St.       W   -6'   88-81    V     174U
+5/9     Minnesota        W   -10'  99-86    H     175O
+5/11    Minnesota        L   -10'  71-80    H     178U
+5/13    Minnesota        W   -4    85-71    V     176U
+5/15    Minnesota        W   -4'   92-85    V     173O
+5/17    LA Lakers        W   -5'   87-81    H     185U
+5/19    LA Lakers        L   -4'   79-76    H     182U
+5/22    LA Lakers        W   +6    103-91   V     183O
+5/23    LA Lakers        W   +4    118-107  V     185O
+5/29    Portland         L   -6    80-76    H     173U
+5/31    Portland         L   -4'   86-85    H     170O
+6/4     Portland         W   +5'   85-63    V     173U
+6/6     Portland         W   +2    94-80    V     173O
+6/16    New York         W   -9    89-77    H     172U
+6/18    New York         W   -8'   80-67    H     171U
+6/21    New York         L   -3'   81-89    V     169O
+6/23    New York         W   -4    96-89    V     170O
+6/25    New York         L   -5    78-77    V     171U
+
+SEATTLE SUPERSONICS
+(SUR: 25-25  PSR: 21-27-2)
+2/5     Dallas           L   -11   92-86    H1    193U
+2/7     Portland         L   -4'   91-88    H     184U
+2/9     Golden St.       W   -11   90-71    H     177U
+2/10    Golden St.       W   -6    89-82    V     176U
+2/13    Denver           N   -13   105-92   H     188O
+2/16    Utah             W   -3'   71-56    H     183U
+2/17    Sacramento       L   -12   106-109  H1    183O
+2/20    Utah             L   +7    80-110   V     178O
+2/21    LA Lakers        W   +1'   92-89    H     185U
+2/23    Houston          L   +1'   86-98    V     180O
+2/24    San Antonio      L   +5    81-99    V     173O
+2/26    San Antonio      W   -4'   92-82    H     176U
+3/1     Sacramento       W   -2    105-102  V     191O
+3/4     Phoenix          L   -9    93-101   H     187O
+3/5     LA Lakers        W   +8    100-103  V     190O
+3/7     Minnesota        L   -6    77-88    H     188U
+3/9     Minnesota        W   +2    84-85    V     186U
+3/10    Milwaukee        L   -2    97-101   V     176O
+3/11    Chicago          W   -7    92-83    V     174O
+3/14    LA Clippers      W   -16   108-89   H     185O
+3/16    Vancouver        L   -17   87-85    H     190U
+3/19    Golden St.       L   -5    78-90    V     176U
+3/21    Denver           L   -5'   98-102   V     194O
+3/22    Philadelphia     W   -3'   92-76    H     175U
+3/24    Washington       L   -4'   92-96    H     181O
+3/26    LA Clippers      L   -13   104-98   H     184O
+3/28    Detroit          L   +4    87-104   V     178O
+3/29    Dallas           W   -1'   109-101  V     181O
+3/30    San Antonio      W   +9'   87-95    V     179O
+4/1     Denver           L   -4'   110-113  V     197O
+4/2     Portland         L   +10   95-107   V     183O
+4/4     Houston          W   P     101-84   H     190U
+4/6     Sacramento       L   -5    106-112  H1    199O
+4/8     Portland         W   +2    87-86    H     185U
+4/9     Vancouver        L   -4'   93-98    V     184O
+4/11    LA Lakers        W   +6'   113-109  V     196O
+4/14    Phoenix          L   -6    94-101   H     188O
+4/15    Sacramento       W   +2    99-98    V1    203U
+4/16    New Jersey       L   -7    91-121   H     194O
+4/18    Phoenix          L   +3    93-99    V     191O
+4/19    Houston          N   +7    113-120  V     189O
+4/21    Minnesota        W   -4'   119-105  H     188O
+4/23    Vancouver        W   -5    97-84    V     192U
+4/25    Utah             L   +8'   81-98    V     188U
+4/27    Utah             W   +2    90-85    H     187U
+4/28    Portland         L   +9    84-119   V     186O
+4/30    Denver           L   -10'  111-101  H     196O
+5/2     LA Lakers        L   P     84-91    H     199U
+5/4     Dallas           W   -5    110-100  H     196O
+5/5     LA Clippers      L   -2'   107-105  V     201O
+
+TORONTO RAPTORS
+(SUR: 23-27  PSR: 22-23-1)
+2/5     Boston           W   +9'   103-92   V     201U
+2/6     Washington       W   +8'   97-98    V     186O
+2/9     Milwaukee        L   +4'   77-91    HN    191U
+2/11    Miami            L   +8'   84-102   V     180O
+2/16    New York         L   +8    85-95    V     177O
+2/18    Washington       L   +1'   88-95    HN    195U
+2/19    Milwaukee        W   +6    90-82    HN    187U
+2/21    Vancouver        W   -4    102-87   H     186O
+2/23    Detroit              NL    80-106   V     NL
+2/24    Indiana          L   +12   84-104   V     184O
+2/26    Minnesota        W   +4'   102-92   H     192O
+2/28    Chicago          L   -6    88-90    H1    174O
+3/1     Charlotte        L   +2    88-91    V     183U
+3/4     Atlanta          W   +10   86-77    V     181U
+3/5     Orlando          W   +6'   84-89    H     178U
+3/7     Boston           W   +2'   105-92   H     191O
+3/11    Miami            L   +9    73-83    V     176U
+3/13    Atlanta          L   +9'   75-86    V     177U
+3/15    Charlotte        W   -2'   89-82    H     178U
+3/16    New Jersey           NL    100-85   H     NL
+3/17    Detroit          W   +10'  103-101  V     177O
+3/19    LA Clippers      W   -8'   93-82    H     191U
+3/21    New York         W   +3    85-81    H1    174U
+3/22    New Jersey       L   +5    87-106   V     181O
+3/23    Chicago          W   +3'   113-90   V     178O
+3/25    Houston          L   +8'   104-113  V     187O
+3/26    San Antonio      W   +10'  93-91    V     180O
+3/28    Chicago          W   -9'   91-78    H     179U
+3/30    Cleveland        W   +4'   101-91   V     184O
+4/1     Indiana          W   +2    88-87    H     186U
+4/3     Washington       L   -3    87-85    H     187U
+4/4     Philadelphia     W   -6    97-82    H     173O
+4/6     Miami            L   +3    70-92    H     174U
+4/8     Boston           L   -6    89-101   H     191U
+4/9     New Jersey       L   +2'   99-106   V     187O
+4/12    Indiana          L   +4'   99-109   H     185O
+4/14    Philadelphia     L   +4'   78-96    V     184U
+4/16    Cleveland        L   -2'   90-91    H1    179O
+4/17    New York             NL    93-90    V     NL
+4/19    Orlando          W   +2'   90-72    H     174U
+4/20    Atlanta          L   +1'   81-103   H     171O
+4/21    Washington       W   +3    107-91   V     185O
+4/23    Orlando          W   +6    95-88    V     179O
+4/25    Detroit          L   P     83-91    H     178U
+4/27    Charlotte        L   -2    98-108   H     182O
+4/28    Milwaukee        L   +6    102-115  V     187O
+4/30    Cleveland        L   -3    83-91    V     179U
+5/1     Philadelphia     N   +7    96-103   V     179O
+5/4     Milwaukee            NL    86-99    V     NL
+5/5     Cleveland        W   -8'   96-87    H     180O
+
+UTAH JAZZ
+(SUR: 42-19  PSR: 27-33-1)
+2/5     Chicago          L   -16'  104-96   H     180O
+2/7     LA Lakers        W   +4'   100-91   V     190O
+2/9     Dallas           W   -6'   90-79    V     186U
+2/11    Phoenix          W   -2'   82-74    V     196U
+2/12    Golden St.       W   -7'   97-81    V     175O
+2/15    Sacramento       L   -11   120-112  H1    192O
+2/16    Seattle          L   +3'   56-71    V     183U
+2/18    Denver           L   -15'  97-86    H     195U
+2/20    Seattle          W   -7    110-80   H     178O
+2/22    LA Clippers      L   -16   104-89   H     189O
+2/24    Denver           L   -8'   87-97    V     193U
+2/26    Dallas           N   -15   80-65    H     185U
+2/28    San Antonio      W   +2'   101-87   V     170O
+3/2     Portland         L   +1'   100-102  V2    182O
+3/3     Vancouver        W   -14'  109-86   H     190O
+3/5     Dallas           L   -15'  106-95   H     182O
+3/7     LA Lakers        L   -3'   89-97    H     191U
+3/9     Cleveland        W   -10   88-75    H     180U
+3/11    Denver           L   -14'  94-89    H     189U
+3/12    Portland         W   +3    91-77    V     180U
+3/13    Minnesota        W   -10   99-72    H     184U
+3/15    Minnesota        W   -3    90-83    V     182U
+3/18    Washington       W   -7    95-87    V     181O
+3/19    Charlotte        L   -5'   82-83    V1    180U
+3/21    Detroit          L   -2'   101-104  V1    176O
+3/23    Miami            L   -5'   84-81    H     173U
+3/26    Vancouver        L   -10   85-80    V     175U
+3/27    LA Clippers      L   -11'  77-103   VN    181U
+3/30    Sacramento       L   -6    101-104  V1    189O
+4/1     Houston          L   -5    88-87    H     184U
+4/2     Golden St.       W   -4    92-85    V     175O
+4/6     LA Lakers        W   +2'   106-93   V     187O
+4/8     Golden St.       L   -11'  92-85    H     175O
+4/9     Phoenix          L   -8'   93-92    H     184O
+4/11    Houston          W   -5    85-76    H     182U
+4/12    Vancouver        W   -11   98-80    H     177O
+4/13    Sacramento       W   -3    105-100  V1    192O
+4/15    LA Clippers      W   -10'  103-89   V     184O
+4/17    LA Lakers        W   -5'   109-93   H     190O
+4/18    Minnesota        W   -4'   97-76    V     182U
+4/20    San Antonio      L   -4'   69-83    H     175U
+4/21    Phoenix          L   -3    82-91    V     183U
+4/23    Portland         W   -4    96-85    H     173O
+4/25    Seattle          W   -8'   98-81    H     188U
+4/26    Phoenix          L   -8'   85-99    H     184N
+4/27    Seattle          L   -2    85-90    V     187U
+4/29    Golden St.       L   -11'  96-85    H     176O
+4/30    Houston          W   -3    91-78    V     NL
+5/2     San Antonio      L   +1    78-84    V     171U
+5/4     LA Clippers      W   -15'  99-82    H     188U
+5/8     Sacramento       W   -10   117-87   H     191O
+5/10    Sacramento       L   -10   90-101   H     194U
+5/12    Sacramento       L   -5    81-84    V1    195U
+5/14    Sacramento       L   -5'   90-89    V     190U
+5/16    Sacramento       L   -8'   99-92    H1    188O
+5/18    Portland         W   -3'   93-83    H     179U
+5/20    Portland         L   -3    81-84    H     181U
+5/22    Portland         L   +4'   87-97    V     177O
+5/23    Portland         L   +4    75-81    V     177U
+5/25    Portland         W   -4'   88-71    H     176U
+5/27    Portland         L   +4    80-92    V     174U
+
+VANCOUVER GRIZZLIES
+(SUR: 8-42  PSR: 21-27-1)
+2/7     Sacramento       L   +8    87-109   V     183O
+2/8     Portland         L   +10'  76-95    H     188U
+2/10    LA Clippers      W   -1'   105-99   H     187O
+2/11    Indiana          W   +13   97-101   H     189O
+2/14    Dallas           W   +2'   96-92    H     189U
+2/16    LA Clippers      W   +4    93-89    VN2   192U
+2/17    Boston           W   +5'   129-131  H3    195O
+2/19    Minnesota        L   +11'  96-115   V     190O
+2/21    Toronto          L   +4    87-102   V     186O
+2/23    LA Lakers        W   +7'   93-83    H     197U
+2/25    Phoenix          L   +6'   86-94    H     196U
+2/27    Houston          L   +4'   74-86    H     188U
+2/28    Denver           W   +5'   112-116  V     190O
+3/2     Sacramento       L   +3    101-111  H     196O
+3/3     Utah             L   +14'  86-109   V     190O
+3/4     Minnesota        L   +8    93-102   H     196U
+3/6     Houston          L   +7    92-107   H     188O
+3/8     Portland         L   +8'   73-92    H     188U
+3/9     Golden St.       L   +7'   82-92    V     184U
+3/11    Houston          W   +14   91-102   V     187O
+3/13    Dallas           L   +8    74-91    V     185U
+3/15    Denver           L   +7    84-110   V     194N
+3/16    Seattle          W   +17   85-87    V     190U
+3/18    Minnesota        W   +6'   86-81    H     186U
+3/20    San Antonio      W   +9    88-92    H1    175O
+3/22    Phoenix          W   +12   84-89    V     190U
+3/24    Philadelphia     W   +6'   90-95    H1    174O
+3/26    Utah             W   +10   80-85    H     175U
+3/29    LA Lakers        L   +14'  98-116   V     190O
+3/30    Denver           W   -3    101-87   H     183O
+4/1     San Antonio      W   +14   91-103   V     177O
+4/2     Atlanta          W   +10   81-84    V     175U
+4/4     Chicago          W   +4    87-88    V     174O
+4/6     Portland         W   +14'  89-98    V     182O
+4/7     Denver           L   -3    84-87    H     188U
+4/9     Seattle          W   +4'   98-93    H     184O
+4/11    Sacramento       L   +2'   88-91    H     195U
+4/12    Utah             L   +11   80-98    V     177O
+4/14    Houston          L   +12   85-102   V     189U
+4/16    Minnesota            NL    75-89    V     NL
+4/18    Golden St.       L   +3    85-90    H     177U
+4/19    LA Lakers        L   +14'  102-117  V     194O
+4/21    LA Clippers      N   -3    97-94    H     185O
+4/23    Seattle          L   +5    84-97    H     192U
+4/24    LA Clippers      L   +4'   96-105   V     188O
+4/27    Dallas           L   +7'   75-84    V     189U
+4/29    San Antonio      L   +10   72-99    H     179U
+5/1     Phoenix          L   +12'  77-107   V     187U
+5/3     Golden St.       L   +2'   83-91    H     179U
+5/5     Sacramento       W   +10'  95-99    V     200U
+
+WASHINGTON WIZARDS
+(SUR: 18-32  PSR: 26-23)
+2/5     Indiana          L   +12   81-96    V     187U
+2/6     Toronto          L   -8'   98-97    H     186O
+2/8     Detroit          W   +6'   103-106  V     188O
+2/10    New York         L   +5'   88-101   V     183O
+2/17    Orlando          L   +5    85-96    V     180O
+2/18    Toronto          W   -1'   95-88    VN    195U
+2/19    Chicago          L   -8    93-91    H     174O
+2/21    Boston           W   -3    86-75    H     197U
+2/23    Miami            L   +2    80-96    H     176N
+2/25    Sacramento       L   -5    105-115  H     194O
+2/27    Portland         W   +2    81-82    H     187U
+3/1     Philadelphia     L   -3    91-104   H     181O
+3/2     Atlanta          W   +5'   97-77    V     176U
+3/3     Indiana          L   +5    95-106   H     185O
+3/5     Charlotte        L   -11'  86-85    H     187U
+3/7     Philadelphia     W   +6    103-95   V1    182O
+3/8     Detroit          W   +10   71-75    V     184U
+3/10    Detroit          W   +4    97-87    H     179O
+3/11    New York         L   +7    86-98    V     172O
+3/12    Charlotte            NL    83-92    H     NL
+3/14    Milwaukee        W   +1'   98-86    H     182O
+3/16    Miami            W   +10   85-94    V     176O
+3/18    Utah             L   +7    87-95    H     181O
+3/20    Cleveland        W   -2    113-83   H     179O
+3/22    Indiana          W   +8    86-90    V     187U
+3/24    Seattle          W   +4'   96-92    V     181O
+3/26    Golden St.       L   -1    96-100   V     178O
+3/27    Denver           W   -4    112-100  V     197O
+3/30    Milwaukee        W   +3'   105-107  V     187O
+3/31    Orlando          W   -2    84-73    H     184U
+4/3     Toronto          W   +3    85-87    V     187U
+4/4     Miami            L   +2'   79-90    H     177U
+4/6     New Jersey       L   -6'   93-97    H     189O
+4/7     Boston           L   +2'   87-108   V     192O
+4/9     Charlotte        W   +3'   88-90    V     188U
+4/11    Philadelphia     W   -1'   105-98   H     184O
+4/13    Cleveland        L   +5'   77-86    V     181U
+4/14    New York         W   +1'   95-89    H1    177O
+4/16    Chicago          W   -9    87-70    H     175U
+4/18    Boston           L   -4    98-101   H     189O
+4/20    Chicago          L   -5    77-83    V     174U
+4/21    Toronto          L   -3    91-107   H     185O
+4/23    Atlanta          L   +4    78-89    H     176U
+4/25    Boston           L   +3'   84-113   V     187O
+4/26    Milwaukee        W   +10   91-99    V     187O
+4/28    Orlando          W   +9    86-93    V     181U
+4/29    Cleveland        W   -3'   97-86    H     176O
+5/1     New Jersey       L   +1    91-102   V     192O
+5/3     New Jersey       W   -6'   113-102  H     196O
+5/5     Atlanta          W   +8'   92-100   V     177O
